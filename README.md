@@ -1,6 +1,6 @@
 # LAION-E-Commerce-75M
 
-LAION-E-Commerce is a set of 75M E-commerce images mined from LAION-2B-en, using a [SNIP](https://github.com/ryanwebster90/snip-dedup) index, and using 300k samples from [XMRec](https://xmrec.github.io/) as a "seed" dataset. Generic product information has been transfered as a new column in the parquet. 
+LAION-E-Commerce is a set of 75M E-commerce text/image pairs mined from LAION-2B-en, using a [SNIP](https://github.com/ryanwebster90/snip-dedup) index, and using 300k samples from [XMRec](https://xmrec.github.io/) as a "seed" dataset. Generic product information has been transfered as a new column in the parquet. 
 
 Here is the [LAION-E-Commerce-75M](https://huggingface.co/datasets/fraisdufour/LAION_ecommerce) dataset on huggingface, you may download with
 
