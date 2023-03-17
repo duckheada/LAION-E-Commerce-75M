@@ -7,7 +7,7 @@ Here is the [LAION-E-Commerce-75M](https://huggingface.co/datasets/fraisdufour/L
 You may download the parquet files with
 ```python
 from huggingface_hub import snapshot_download
-snapshot_download(repo_id="lysandre/arxiv-nlp")
+snapshot_download(repo_id="fraisdufour/LAION_ecommerce")
 ```
 
 ## Roadmap
